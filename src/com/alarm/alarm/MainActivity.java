@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
 		        + (i * 1000), pendingIntent);
 	   Toast.makeText(this, "Alarm set in " + i + " seconds",
 		        Toast.LENGTH_LONG).show();
+		\\gittest
 
 
    }
